@@ -1,0 +1,4 @@
+walk_runs =[0,5138,1244,1583,753,735,325,133,55,22,12];
+regular_runs = [3516
+
+for i=2:length(walk_runs)
