@@ -1,0 +1,3 @@
+The idea is this. Take average players at each lineup slot and count how many runs they score. Then, put your specific player in at the first lineup slot and count the difference in runs. This is runs created above an average player.
+
+Similarly, instead of using average players at each slot, you could take the league average for 'leade off', '2hole', etc. 
